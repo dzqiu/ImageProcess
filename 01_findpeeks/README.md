@@ -1,8 +1,10 @@
 # find peeks for gray image
 This algorithm is useful for find regional maxima in gray image or matrix
 
+
+
 ##  install OpenCV 
-if you did not installed OpenCV, install it. 
+if you did not install OpenCV, install it. 
 
 ## install cmake
 ```
