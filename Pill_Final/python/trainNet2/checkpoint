@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/dzqiu/python-workspace/Train_NN/trainNet2/All1W.ckpt"
+all_model_checkpoint_paths: "/home/dzqiu/python-workspace/Train_NN/trainNet2/All1W.ckpt"
